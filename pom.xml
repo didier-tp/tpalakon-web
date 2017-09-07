@@ -14,8 +14,8 @@
 			<version>2.7.5</version>
 		</dependency>
 		<dependency>
-			<groupId>formation.sopra</groupId>
-			<artifactId>formation-jpa-spring-correction</artifactId>
+			<groupId>formation</groupId>
+			<artifactId>TP-Vols</artifactId>
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
